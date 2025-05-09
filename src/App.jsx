@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div>
       <Suspense fallback={<div>Loading...</div>}>
-        <Spline scene="https://prod.spline.design/9sf3r1f4zGt3Evlu/scene.splinecode" />
+        <Spline scene="https://prod.spline.design/uZywJwzEIkeIkCJ1/scene.splinecode" />
       </Suspense>
     </div>
   );
